@@ -1,0 +1,10 @@
+*.pyc
+.idea
+.DS_Store
+learnpython_env/
+
+.vscode/
+venv
+app.env
+
+.DS_Store
